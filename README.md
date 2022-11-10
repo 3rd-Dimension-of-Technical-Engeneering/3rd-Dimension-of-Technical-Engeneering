@@ -62,7 +62,7 @@ h1 {color: Maroon;}
 <table>
 <tr><!-- Office -->
 <th style=>Office:</th>
-<td>Blocker 619</td>
+<td>Khartoum State</td>
 </tr>
 <tr><!-- Obfuscate your e-mail address to reduce spam -->
 <th style=>E-mail:</th>
@@ -77,7 +77,7 @@ h1 {color: Maroon;}
 </tr>
 <tr><!-- Link to your CV -->
 <th>CV:</th>
-<td><a href="combany brofil.pdf">CV.pdf</a></td>
+<td><a href="combany brofil.pdf">Company-Profile.pdf</a></td>
 </tr>
 </table>
 </div>
@@ -118,7 +118,7 @@ h1 {color: Maroon;}
   </p>
   
 <p style="font-size:20px">
-  <a href="https://github.com/kmaluccio">Kelly Maluccio</a>, e, <a href="https://tjyahl.github.io/">Thomas Yahl</a> and I developed a package in <a href="https://faculty.math.illinois.edu/Macaulay2/doc/Macaulay2/share/doc/MacRealRoots/html/index.html">llll</a> called <b> RealRoots</b> for Kazeno.
+  <a href="https://github.com/kmalio">uccio</a>, e, <a href="https://tjl.github.io/">Tl</a> and I developed a package in <a href="https://fulty.h.inois.edu/Macay2/doc/Maots/html/index.html">llll</a> called <b> RealRoots</b> for Kazeno.
   </p>
   
  <p style="font-size:20px"> <a href="https://www.math.u.edu/directory/formag.php?user=ust">Mst</a>,. 

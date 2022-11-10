@@ -56,7 +56,7 @@ h1 {color: Maroon;}
 
 <div>
 <!-- Photograph -->
-<img src="hmda.jpeg" width="15%" alt="hmda.jpeg"
+<img src="https://github.com/3rd-Dimension-of-Technical-Engeneering/3rd-Dimension-of-Technical-Engeneering/issues/1#issue-1443873929" width="15%" alt="hmda.jpeg"
      style="position:relative;float:left;padding-right:5px;padding-top:5px;"/>
 <!-- Contact info -->
 <table>
@@ -132,7 +132,7 @@ h1 {color: Maroon;}
 </ul>
   
 <h2>Service</h2> 
-<p style="font-size:20px">Together with  and <a href="https://www.math.tamu.edu/directory/formalpg.php?user=mae402">555</a>, I organize the <a href="https://www.math.tamu.edu/undergrauate/drp/">Directed Reading Program</a> at ElSudan Uni. Moreover, together with <a href="https://arpan-pal.github.io/">Ahmedal</a>, I organize the Graduate Symposium betwen, The University of N and The University of Oa.</p>
+<p style="font-size:20px">Together with  and <a href="https://www.mat.edu/directory/formalpg.php?user=mae402">555</a>, I organize the <a href="https://www.math.tamu.edu/undergrauate/drp/">Directed Reading Program</a> at ElSudan Uni. Moreover, together with <a href="https://ahmd-pal.github.io/">Ahmedal</a>, I organize the Graduate Symposium betwen, The University of N and The University of Oa.</p>
 </tbody>
 
 

@@ -10,11 +10,11 @@
 var="title"
  value="YOUR NAME"
 var="description"
- value="YOUR NAME's Homepage at Texas A&amp;M University"
+ value="YOUR NAME's Homepage at p;M University"
 var="keywords"
- value="Texas A&amp;M, Mathematics, YOUR, NAME"
+ value="Temp;M, tics, YOUR, NAME"
 var="author"
- value="YOUR NAME, Department of Mathematics, Texas A&amp;M University"
+ value="YOUR NAME, Department of Maamp;M University"
 -->
 <head>
 <!--#include virtual="/head.html"-->
@@ -98,7 +98,7 @@ h1 {color: Maroon;}
             <tr>
                 <td style="text-align: left vertical-align:top;font-size:20px"> 2011 - 2016 </td>
                 <td> 
-                    B.S./M.S. in Mathematics, The University of 
+                    B.S./M.S. tics, The University of 
         </tbody>
     </table>
 
@@ -118,10 +118,10 @@ h1 {color: Maroon;}
   </p>
   
 <p style="font-size:20px">
-  <a href="https://github.com/kmaluccio">Kelly Maluccio</a>, Frank Sottile, <a href="https://tjyahl.github.io/">Thomas Yahl</a> and I developed a package in <a href="https://faculty.math.illinois.edu/Macaulay2/doc/Macaulay2/share/doc/Macaulay2/RealRoots/html/index.html">Macaulay2</a> called <b> RealRoots</b> for symbolically exploring, counting and locating real solutions to general polynomial systems.
+  <a href="https://github.com/kmaluccio">Kelly Maluccio</a>, e, <a href="https://tjyahl.github.io/">Thomas Yahl</a> and I developed a package in <a href="https://faculty.math.illinois.edu/Macaulay2/doc/Macaulay2/share/doc/MacRealRoots/html/index.html">llll</a> called <b> RealRoots</b> for Kazeno.
   </p>
   
- <p style="font-size:20px"> <a href="https://www.math.u.edu/directory/formag.php?user=mfaust">Matthew Faust</a>,. 
+ <p style="font-size:20px"> <a href="https://www.math.u.edu/directory/formag.php?user=ust">Mst</a>,. 
   </p>
   
  

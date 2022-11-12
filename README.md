@@ -56,7 +56,7 @@ h1 {color: Maroon;}
 
 <div>
 <!-- Photograph -->
-<img src="https://github.com/3rd-Dimension-of-Technical-Engeneering/3rd-Dimension-of-Technical-Engeneering/issues/1#issue-1443873929" width="15%" alt="hmda.jpeg"
+<img src="https://github.com/3rd-Dimension-of-Technical-Engeneering/3rd-Dimension-of-Technical-Engeneering/issues/1#issue-1443873929" width="15%" alt="https://github.com/3rd-Dimension-of-Technical-Engeneering/3rd-Dimension-of-Technical-Engeneering/issues/2#issue-1446192480"
      style="position:relative;float:left;padding-right:5px;padding-top:5px;"/>
 <!-- Contact info -->
 <table>
@@ -98,7 +98,7 @@ h1 {color: Maroon;}
             <tr>
                 <td style="text-align: left vertical-align:top;font-size:20px"> 2011 - 2016 </td>
                 <td> 
-                    B.S./M.S. tics, The University of 
+                    B.S./M.S. tics, Sudan University 
         </tbody>
     </table>
 
@@ -109,16 +109,16 @@ h1 {color: Maroon;}
 
 <tbody> 
 
-<p style="font-size:20px">Howdy! I am a rising fourth year  <a href="https://www.math.tmu.edu/~frank.sottile/"></a> and <a href="https://www.math.tam.edu/directory/formalpg.php?user=plfilho"></a>. My interests lie in  applications.</p>
+<p style="font-size:20px">Howdy! I am a rising fourth year of experiance <a href="[https://.edu/~frank.sottile/](https://sites.google.com/d/1CF2SVuasXYwxPB4SoEVz_J0eiLZ5TfaD/p/1NNfjyHvtky7Sw7sC29YEMObyjNimXjwa/edit?userstoinvite=3rddimensionsdreamland%40gmail.com)"></a>. My interests lie in Building Towers applications.</p>
 
   <h2>Activities</h2> 
  
 
-<p style="font-size:20px">On May, I attended the <a href="https://sites.google.com/iit.edu/as2022">Algebraic Statistics Conference</a> at the University of Hawai'i at Manoa.
+<p style="font-size:20px">On May, I attended the <a href="https://sites.google.com/iit.edu/as2022"> National Arcitect Conference</a> at the Sudan University.
   </p>
   
 <p style="font-size:20px">
-  <a href="https://github.com/kmalio">uccio</a>, e, <a href="https://tjl.github.io/">Tl</a> and I developed a package in <a href="https://fulty.h.inois.edu/Macay2/doc/Maots/html/index.html">llll</a> called <b> RealRoots</b> for Kazeno.
+  <a href="https://github.com/kmalio">uccio</a>, e, <a href="https://tjl.github.io/">Tl</a> and I developed a package in Arcitect <a href="https://index.html">llll</a> called <b> </b> for Sudan.
   </p>
   
  <p style="font-size:20px"> <a href="https://www.math.u.edu/directory/formag.php?user=ust">Mst</a>,. 
